@@ -5,34 +5,28 @@
 * 毫秒级实时多端同步，随时随地开展工作，满足多场景办公使用需求
 * 文档编辑历史自动保存，可随时追溯查看，还可一键还原到任一历史版本
 
-## Getting Started
+# Structure
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+![image](https://i.loli.net/2019/07/12/5d2832a9a75ba78063.png)
 
-### Prerequisites
+## Prerequisites
 
 What things you need to install the software
 
 ```
 Maven
+Redis
+Spring
+Spring MVC
+Mybatis
 
-Vue
+element-ui
+axios
+vuex
+vue-quill-editor
+vue-clipboard2
+ajv
 ```
-
-### Installing
-
-
-## Deployment
-
-
-## Contributing
-
-
-## Versioning
-
-
-## Authors
-
 
 ## License
 

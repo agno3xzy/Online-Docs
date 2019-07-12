@@ -26,6 +26,17 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "lyykirwan",
+      "name": "lyykirwan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/34850501?v=4",
+      "profile": "https://github.com/lyykirwan",
+      "contributions": [
+        "infra",
+        "design",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

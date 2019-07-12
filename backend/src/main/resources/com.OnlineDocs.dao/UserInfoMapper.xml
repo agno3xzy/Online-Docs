@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.OnlineDocs.dao.UserInfoMapper">
+    <insert id="addUserInfo">
+        INSERT INTO user_info(user_name, password, user_email) VALUES (#{username},#{password}, #{email})
+    </insert>
+
+    <update id="modifyKey">
+        UPDATE user_info set password = #{password} WHERE user_name = #{username}
+    </update>
+</mapper>

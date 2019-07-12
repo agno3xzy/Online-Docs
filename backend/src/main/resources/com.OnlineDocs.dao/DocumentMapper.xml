@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.OnlineDocs.dao.DocumentMapper" >
+    <select id="getDocumentIDbyFilePath"
+            resultType="int">
+        select iddocument from document where text_path = #{filePath}
+    </select>
+
+    <delete id="deleteDocumentbyID">
+        delete from document where iddocument = #{documentID}
+    </delete>
+
+    <insert id="addDocument">
+        INSERT into document(document_name, create_time, last_modify_time, text_path, log_path) VALUES (#{documentName},
+        #{createTime},#{lastModifyTime},#{filePath},#{logPath})
+    </insert>
+</mapper>

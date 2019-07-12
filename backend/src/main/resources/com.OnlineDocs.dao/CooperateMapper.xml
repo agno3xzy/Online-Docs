@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.OnlineDocs.dao.CooperateMapper" >
+    <delete id="deleteCooperatebyDocumentID">
+        delete from cooperate WHERE document_iddocument=#{documentID}
+    </delete>
+
+    <insert id="addCooperate">
+        INSERT into cooperate(permission, user_iduser, document_iddocument) VALUES (#{authority},#{userID},#{documentID})
+    </insert>
+
+    <select id="selectDocIDbyUserID" resultType="Object">
+        select document_iddocument from cooperate WHERE user_iduser=#{userID}
+    </select>
+
+    <update id="updateCooperate">
+        UPDATE cooperate set permission = #{changedAuth} WHERE permission = #{curAuth} and user_iduser = #{userID} and document_iddocument = #{docID}
+    </update>
+</mapper>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.OnlineDocs.dao.InviteInfoMapper" >
+    <insert id="insertInviteInfo">
+        INSERT into invite_info(document_id, invite_user_id, auth, invite_time) VALUES (#{documentID},
+        #{userID},#{auth},#{inviteTime})
+    </insert>
+</mapper>

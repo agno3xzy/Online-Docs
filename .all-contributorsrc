@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "award118",
+      "name": "award118",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43327595?v=4",
+      "profile": "https://github.com/award118",
+      "contributions": [
+        "infra",
+        "doc",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

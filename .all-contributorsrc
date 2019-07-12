@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "agno3xzy",
+      "name": "agno3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35889675?v=4",
+      "profile": "https://agno3xzy.github.io",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Online-Docs",
+  "projectOwner": "agno3xzy",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

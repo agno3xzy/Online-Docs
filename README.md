@@ -1,5 +1,5 @@
 # OnlineDocs--基于前后端分离的协作编辑文档平台
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 * 多人在线协作编辑文档，告别通过邮件、IM 软件多次传输文件的繁复
 * 毫秒级实时多端同步，随时随地开展工作，满足多场景办公使用需求
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://agno3xzy.github.io"><img src="https://avatars3.githubusercontent.com/u/35889675?v=4" width="100px;" alt="agno3"/><br /><sub><b>agno3</b></sub></a><br /><a href="#infra-agno3xzy" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/agno3xzy/Online-Docs/commits?author=agno3xzy" title="Tests">⚠️</a> <a href="https://github.com/agno3xzy/Online-Docs/commits?author=agno3xzy" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/award118"><img src="https://avatars1.githubusercontent.com/u/43327595?v=4" width="100px;" alt="award118"/><br /><sub><b>award118</b></sub></a><br /><a href="#infra-award118" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/agno3xzy/Online-Docs/commits?author=award118" title="Documentation">📖</a> <a href="https://github.com/agno3xzy/Online-Docs/commits?author=award118" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lyykirwan"><img src="https://avatars2.githubusercontent.com/u/34850501?v=4" width="100px;" alt="lyykirwan"/><br /><sub><b>lyykirwan</b></sub></a><br /><a href="#infra-lyykirwan" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#design-lyykirwan" title="Design">🎨</a> <a href="https://github.com/agno3xzy/Online-Docs/commits?author=lyykirwan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/lizBuptSse"><img src="https://avatars1.githubusercontent.com/u/35185428?v=4" width="100px;" alt="lizBuptSse"/><br /><sub><b>lizBuptSse</b></sub></a><br /><a href="#platform-lizBuptSse" title="Packaging/porting to new platform">📦</a> <a href="#design-lizBuptSse" title="Design">🎨</a> <a href="https://github.com/agno3xzy/Online-Docs/commits?author=lizBuptSse" title="Code">💻</a></td>
   </tr>
 </table>
 

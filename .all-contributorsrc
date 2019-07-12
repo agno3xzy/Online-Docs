@@ -48,6 +48,17 @@
         "design",
         "code"
       ]
+    },
+    {
+      "login": "gui-li",
+      "name": "Gui Li",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23182403?v=4",
+      "profile": "https://github.com/gui-li",
+      "contributions": [
+        "platform",
+        "design",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

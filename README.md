@@ -7,7 +7,7 @@
 
 # Structure
 
-![image](https://i.loli.net/2019/07/12/5d2832a9a75ba78063.png)
+![image](https://i.loli.net/2019/07/12/5d2847ddcb40f24111.png)
 
 ## Prerequisites
 
